@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sapto Prasojo, a seasoned Web Developer crafting responsive and innovative web applications. Beyond development, I actively write on Medium to share my expertise. I'm currently open to remote and project-based opportunities to help bring your digital visions to life.
+I'm Sapto Prasojo, a skilled Web Developer with a passion for building responsive and innovative web applications. I specialize in frontend technologies like React, Next.js, and TypeScript, and enjoy creating seamless user experiences. Outside of coding, I'm open to full-time remote and project-based opportunities to collaborate and bring your digital ideas to life.
 
 
 ## 🌐 Socials:
